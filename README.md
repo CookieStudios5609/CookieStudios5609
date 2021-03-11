@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <ul>
   <li>Docker, probably</li>
   <li>Some form of database something</li>
-  <li>Client and server stuff</li>
+  <li>Clients and servers for distributed computing</li>
   <li>PyQt5 and Swing</li>
 </ul>
 
