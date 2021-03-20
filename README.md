@@ -17,23 +17,24 @@ Here are some ideas to get you started:
 # Hello!
 ### Thanks for checking out my profile. I'm a complete novice to all things programming and software dev-related. Here's a little about me:
 
-## What I'm learning:
+## What I'm currently learning:
 <ul>
-  <li>Python - as a hobby</li>
-  <li>Java - for courses</li>
-  <li>Discord.py - I might know more about discord.py than I do Python, oops</li>
-  <li>HTML</li>
-  <li>Git</li>
-  <li>Github and how it works</li>
+  <li>- [ ] Python - as a hobby</li>
+  <li>- [ ] Java - for courses</li>
+  <li>- [ ] PostgreSQL</li>
+  <li>- [X] Discord.py</li>
+  <li>- [ ] HTML</li>
+  <li>- [X] Basic Git CLI commands</li>
+  <li>- [X] Github basics</li>
 </ul>
 
 ---
 
 ## What I'm learning next:
 <ul>
-  <li>Docker, probably</li>
-  <li>Some form of database something</li>
-  <li>Clients and servers for distributed computing</li>
+  <li>"Dockerizing" Python</li>
+  <li>~~Some form of database~~ Started PostgreSQL March 20th, 2021!</li>
+  <li>some sort of distributed computing solution</li>
   <li>PyQt5 and Swing</li>
 </ul>
 
@@ -41,6 +42,7 @@ Here are some ideas to get you started:
 
 ## What I need help with:
 <p> Just about everything. I'm <strong>COMPLETELY</strong> new.</p>
+<p> Ideas. I don't know how to put what I learn into practice, other than making GUIs for tools or adding it to a Discord bot.</p>
 
 ---
 
