@@ -47,3 +47,9 @@ Here are some ideas to get you started:
 ---
 
 ## Contact me on Discord: CookieStudios#5609
+
+![CookieStudios5609's GitHub stats](https://github-readme-stats.vercel.app/api?username=cookiestudios5609&show_icons=true&theme=algolia&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cookiestudios5609&layout=compact&theme=algolia&count_private=true)
+
+<p> Generated using https://github.com/anuraghazra/github-readme-stats</p>
