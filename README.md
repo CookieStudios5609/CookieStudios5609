@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ---
 
 ## What I need help with:
-<p> Just about everything. I'm <strong>COMPLETELY</strong> new.</p>
+<p> <del> Just about everything. I'm <strong>COMPLETELY</strong> new. </del> March 20, 2021: I feel I'm making decent progress now, though most of this is in private repos.</p>
 <p> Ideas. I don't know how to put what I learn into practice, other than making GUIs for tools or adding it to a Discord bot.</p>
 
 ---
