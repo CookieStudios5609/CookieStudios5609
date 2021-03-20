@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ## What I'm learning next:
 <ul>
   <li>"Dockerizing" Python</li>
-  <li>~~Some form of database~~ Started PostgreSQL March 20th, 2021!</li>
+  <li><del>Some form of database</del> Started PostgreSQL March 20th, 2021!</li>
   <li>some sort of distributed computing solution</li>
   <li>PyQt5 and Swing</li>
 </ul>
