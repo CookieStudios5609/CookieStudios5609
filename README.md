@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <li>- [ ] Python - as a hobby</li>
   <li>- [ ] Java - for courses</li>
   <li>- [ ] PostgreSQL</li>
-  <li>- [X] Discord.py</li>
+  <li>- [X] Discord.py basics</li>
   <li>- [ ] HTML</li>
   <li>- [X] Basic Git CLI commands</li>
   <li>- [X] Github basics</li>
