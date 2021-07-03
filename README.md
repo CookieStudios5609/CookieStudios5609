@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello!
+# Hello! This account is temporarily inactive. I don't have much free time right now.
 ### Thanks for checking out my profile. I'm a complete novice to all things programming and software dev-related. Here's a little about me:
 
 ## What I'm currently learning:
