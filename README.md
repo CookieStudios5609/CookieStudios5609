@@ -14,16 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello! This account is temporarily inactive. I don't have much free time right now.
+# Hello! This account is temporarily inactive. 
 ### Thanks for checking out my profile. I'm a complete novice to all things programming and software dev-related. Here's a little about me:
 
 ## What I'm currently learning:
 <ul>
   <li>- [ ] Python - as a hobby</li>
   <li>- [ ] Java - for courses</li>
-  <li>- [ ] PostgreSQL</li>
+  <li>- [X] PostgreSQL/SQLite basics</li>
   <li>- [X] Discord.py basics</li>
-  <li>- [ ] HTML</li>
+  <li>- [ ] Enough HTML/CSS/JS to get by, without a framework</li>
   <li>- [X] Basic Git CLI commands</li>
   <li>- [X] Github basics</li>
 </ul>
@@ -32,10 +32,8 @@ Here are some ideas to get you started:
 
 ## What I'm learning next:
 <ul>
-  <li>"Dockerizing" Python</li>
-  <li><del>Some form of database</del> Started PostgreSQL March 20th, 2021!</li>
-  <li>some sort of distributed computing solution</li>
-  <li>PyQt5 and Swing</li>
+  <li>"Dockerizing" programs effectively</li>
+  <li>Authentication for FastAPI projects</li>
 </ul>
 
 ---
