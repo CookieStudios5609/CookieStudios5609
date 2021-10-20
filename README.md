@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <li>- [ ] Python - as a hobby</li>
   <li>- [ ] Java - for courses</li>
   <li>- [X] PostgreSQL/SQLite basics</li>
-  <li>- [X] Discord.py basics</li>
+  <li>- [X] Disnake basics</li>
   <li>- [ ] Enough HTML/CSS/JS to get by, without a framework</li>
   <li>- [X] Basic Git CLI commands</li>
   <li>- [X] Github basics</li>
