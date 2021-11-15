@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 <ul>
   <li>"Dockerizing" programs effectively</li>
   <li>Authentication for FastAPI projects</li>
+  <li>Java Spring</li>
+  <li>Pentesting Basics</li>
 </ul>
 
 ---
