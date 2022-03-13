@@ -14,34 +14,46 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello! This account is temporarily inactive. 
-### Thanks for checking out my profile. I'm a complete novice to all things programming and software dev-related. Here's a little about me:
+# Temporarily inactive
+### Thanks for checking out my profile. Here's where I am:
 
-## What I'm currently learning:
+## What I'm currently practicing:
 <ul>
-  <li>- [ ] Python - as a hobby</li>
-  <li>- [ ] Java - for courses</li>
-  <li>- [X] PostgreSQL/SQLite basics</li>
-  <li>- [X] Disnake basics</li>
-  <li>- [X] Enough HTML/CSS/JS to get by, without a framework</li>
-  <li>- [X] Basic Git CLI commands</li>
-  <li>- [X] Github basics</li>
+  <li>- [ ] C# </li>
+  <li>- [ ] Jenkins</li>
+  <li>- [ ] Ansible</li>
+  <li>- [ ] Redis</li>
 </ul>
 
 ---
 
-## What I'm learning next:
+## What I'm planning to practice someday soon:
 <ul>
-  <li>"Dockerizing" programs effectively</li>
   <li>Authentication for FastAPI projects</li>
   <li>Java Spring</li>
   <li>Pentesting Basics</li>
+  <li> Kotlin </li>
+</ul>
+
+---
+
+## What I feel proficient in:
+<ul>
+  <li>- [X] Python</li>
+  <li>- [X] Java</li>
+  <li>- [X] SQL</li>
+  <li>- [X] Naked HTML/CSS/JS</li>
+  <li>- [X] Git CLI</li>
+  <li>- [X] Github basics</li>
+  <li>- [X] Podman/Docker basics</li>
+  <li>- [X] KVM/QEMU/Libvirt/VFIO utils</li>
+  <li>- [X] Linux Server Administration</li>
 </ul>
 
 ---
 
 ## What I need help with:
-<p> I think things are okay! Please contact me if you have info on what I need to work on! </p>
+<p> I think things are okay right now! </p>
 
 
 ---
