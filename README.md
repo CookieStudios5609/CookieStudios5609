@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Temporarily inactive
 ### Thanks for checking out my profile. Here's where I am:
 
 ## What I'm currently practicing:
