@@ -18,25 +18,27 @@ Here are some ideas to get you started:
 
 ## What I'm currently practicing:
 <ul>
-  <li>- [ ] C# </li>
-  <li>- [ ] Jenkins</li>
-  <li>- [ ] Ansible</li>
+  <li>- [ ] C#</li>
+  <li>- [ ] Golang</li>
+  <li>- [ ] Powershell</li>
   <li>- [ ] Redis</li>
+  <li>- [ ] Passwordless authentication using FIDO2 resident credentials</li>
 </ul>
 
 ---
 
 ## What I'm planning to practice someday soon:
 <ul>
-  <li>Authentication for FastAPI projects</li>
+  <li>Adding authentication and authorization for FastAPI projects</li>
   <li>Java Spring</li>
   <li>Pentesting Basics</li>
-  <li> Kotlin </li>
+  <li>Kotlin</li>
+  <li>Ansible</li>
 </ul>
 
 ---
 
-## What I feel proficient in:
+## What I *feel* proficient in:
 <ul>
   <li>- [X] Python</li>
   <li>- [X] Java</li>
@@ -46,7 +48,8 @@ Here are some ideas to get you started:
   <li>- [X] Github basics</li>
   <li>- [X] Podman/Docker basics</li>
   <li>- [X] KVM/QEMU/Libvirt/VFIO utils</li>
-  <li>- [X] Linux Server Administration</li>
+  <li>- [X] Some amount of Linux Server Administration</li>
+  <li>- [X] Jenkins</li>
 </ul>
 
 ---
