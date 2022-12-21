@@ -18,11 +18,10 @@ Here are some ideas to get you started:
 
 ## What I'm currently practicing:
 <ul>
-  <li>- [ ] C#</li>
-  <li>- [ ] Golang</li>
+  <li>- [ ] Java Spring</li>
   <li>- [ ] Powershell</li>
   <li>- [ ] Redis</li>
-  <li>- [ ] Passwordless authentication using FIDO2 resident credentials</li>
+  <li>- [ ] Implementing FIDO2 passwordless in FastAPI</li>
 </ul>
 
 ---
@@ -30,7 +29,7 @@ Here are some ideas to get you started:
 ## What I'm planning to practice someday soon:
 <ul>
   <li>Adding authentication and authorization for FastAPI projects</li>
-  <li>Java Spring</li>
+  <li>Golang</li>
   <li>Pentesting Basics</li>
   <li>Kotlin</li>
   <li>Ansible</li>
