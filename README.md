@@ -16,20 +16,17 @@ Here are some ideas to get you started:
 -->
 ### Thanks for checking out my profile. Here's where I am:
 
-## What I'm currently practicing:
+## What I'm currently learning:
 <ul>
-  <li>- [ ] Java Spring</li>
-  <li>- [ ] Powershell</li>
-  <li>- [ ] Redis</li>
-  <li>- [ ] Implementing FIDO2 passwordless in FastAPI</li>
+  <li>- [ ] Powershell Scripting</li>
+  <li>- [ ] Passkey support in FastAPI</li>
+  <li>- [ ] Golang</li>
 </ul>
 
 ---
 
-## What I'm planning to practice someday soon:
+## What I'm planning to learn someday soon:
 <ul>
-  <li>Adding authentication and authorization for FastAPI projects</li>
-  <li>Golang</li>
   <li>Pentesting Basics</li>
   <li>Kotlin</li>
   <li>Ansible</li>
