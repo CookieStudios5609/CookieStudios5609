@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 ---
 
 ## What I need help with:
-<p> I think things are okay right now! </p>
+<p> I'm currently working in IT instead! I'm looking for new projects to keep my skills sharp! </p>
 
 
 ---
